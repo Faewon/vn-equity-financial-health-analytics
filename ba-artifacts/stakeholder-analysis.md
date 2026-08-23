@@ -9,3 +9,7 @@
 | Portfolio/Fund Manager | Decision Maker (internal client) | pm@[company].com | Internal, Indirect | Wants early warning signals to adjust investment portfolios in time | High | High | Periodic summary reports; dashboard demos when significant insights arise |
 | External Investors/Clients | End Beneficiary | N/A (indirect, via Fund Manager) | External, Indirect | Concerned with the reliability and transparency of investment information | Low | Medium | No direct interaction; insight quality assured indirectly through the Portfolio Manager |
 | Data Vendor (vnstock/HOSE-HNX) | Data Source Provider | N/A | External, Indirect | Maintains stability of the API / official data sources | Low | Medium | Monitor API/ToS changes regularly; maintain a backup data source plan |
+
+---
+
+*Disclaimer: This document is a personal portfolio project created to demonstrate Business Analyst skills (requirements gathering, process modeling, and documentation) and does not represent an actual engagement with a named organization.*
