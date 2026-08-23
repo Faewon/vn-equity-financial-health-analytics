@@ -1,0 +1,11 @@
+# Stakeholder Analysis
+ 
+| Stakeholder Name | Role / Position | Contact Information | Type | Area(s) of Interest / What's Important | Level of Influence | Impact | Engagement Strategy |
+|---|---|---|---|---|---|---|---|
+| Ms. Lan Nguyen | Head of Investment Analysis | lan.nguyen@[company].com | Internal, Direct | Needs accurate, timely insights for advisory decisions; concerned with the reliability of risk alerts | High | High | Weekly review meetings; final approver before rollout — requires deep consultation from the requirements-gathering stage |
+| Mr. Minh Tran | Senior Financial Analyst (end user) | minh.tran@[company].com | Internal, Direct | Wants an easy-to-use dashboard with fast drill-down by company/industry; aims to save time on manual data consolidation | High | High | Included in pilot testing group; UAT feedback collected before go-live; dashboard usage training provided |
+| IT/Data Engineering Team | System Implementer | it-support@[company].com | Internal, Direct | Needs clear, feasible technical requirements; concerned about system load from automated data refreshes | Medium | Medium | Regular technical syncs; provide clear BRD/DFD to minimize requirement misunderstandings |
+| Compliance Officer | Risk & Compliance | compliance@[company].com | Internal, Indirect | Ensures data is sourced legitimately and lawfully; wary of legal risk from data scraping | Medium | Low | Monthly status updates; obtain sign-off on data sources before official deployment |
+| Portfolio/Fund Manager | Decision Maker (internal client) | pm@[company].com | Internal, Indirect | Wants early warning signals to adjust investment portfolios in time | High | High | Periodic summary reports; dashboard demos when significant insights arise |
+| External Investors/Clients | End Beneficiary | N/A (indirect, via Fund Manager) | External, Indirect | Concerned with the reliability and transparency of investment information | Low | Medium | No direct interaction; insight quality assured indirectly through the Portfolio Manager |
+| Data Vendor (vnstock/HOSE-HNX) | Data Source Provider | N/A | External, Indirect | Maintains stability of the API / official data sources | Low | Medium | Monitor API/ToS changes regularly; maintain a backup data source plan |
