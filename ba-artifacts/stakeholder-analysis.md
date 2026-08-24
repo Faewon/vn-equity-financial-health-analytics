@@ -1,4 +1,18 @@
 # Stakeholder Analysis
+
+---
+
+## Project Details
+
+| Field | Detail |
+|---|---|
+| **Project Name** | Financial Health Early Warning System |
+| **Creator** | Khai Hoang |
+| **Document No.** | StaAn - 001 |
+| **Date** | 2026-08-23 |
+| **Version No.** | 1.0 |
+
+---
  
 | Stakeholder Name | Role / Position | Contact Information | Type | Area(s) of Interest / What's Important | Level of Influence | Impact | Engagement Strategy |
 |---|---|---|---|---|---|---|---|
