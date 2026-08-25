@@ -80,3 +80,7 @@ The Compliance Officer is accountable only for the two activities tied to their 
 The Portfolio Manager is Informed throughout the build and only becomes Responsible/Accountable for the single activity that belongs to them directly: viewing approved reports. This reflects the BRD scope exclusion on automated report distribution; the Portfolio Manager pulls information rather than having it delivered to them, so they are not a stakeholder in the activities that produce it.
 
 Two activities carry a combined R/A where the stakeholder analysis and BRD do not name a separate accountable party distinct from the person doing the work, for example the BA's own artifact production and the Financial Analyst's own thesis drafting. This is acceptable in a RACI matrix when one role is both the sole doer and the sole owner of that specific deliverable.
+
+---
+
+*Disclaimer: This document is a personal portfolio project created to demonstrate Business Analyst skills (requirements gathering, process modeling, and documentation) and does not represent an actual engagement with a named organization.*
